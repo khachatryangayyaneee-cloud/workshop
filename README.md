@@ -1,2 +1,2 @@
-# workshop
+
 Our first workshop

@@ -1,7 +1,4 @@
 Hello world
 I work in github
-<<<<<<< HEAD
-Our team 10
-=======
-Our team is working now
->>>>>>> origin/Meri
+Our team is working after merge
+
